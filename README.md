@@ -1,6 +1,6 @@
 # Hi 👋
 
-### My name is Yusuf. I am a frontend developer living Istanbul, Turkey.
+### My name is Yusuf. I am a front-end developer & UI designer living Istanbul, Turkey.
 
 ## 🛠  Technologies and tools
 
