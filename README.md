@@ -2,6 +2,7 @@
 
 ### My name is Yusuf. I am a front-end developer & UI designer living Istanbul, Turkey.
 
+
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -15,7 +16,7 @@
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## ✏  What I am currently learning / improving on
 
 [<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=444" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
@@ -23,7 +24,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 
-## 👾  What I am interested in learning at some point
+## 🔎  What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
@@ -34,4 +35,8 @@
 
 [tech_tools_anchor]: #hello--
 [learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+[learning_next_anchor]: #learning-next 
+
+
+## 🖱 **Personal Site**
+### [**Click Here.**](http://personal-site-ysfkblt.vercel.app/)
